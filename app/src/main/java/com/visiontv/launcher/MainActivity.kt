@@ -1,4 +1,4 @@
-package com.appletv.launcher
+package com.visiontv.launcher
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
@@ -13,7 +13,7 @@ import android.provider.Settings
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.appletv.launcher.databinding.ActivityMainBinding
+import com.visiontv.launcher.databinding.ActivityMainBinding
 import org.json.JSONObject
 import java.net.HttpURLConnection
 import java.net.URL

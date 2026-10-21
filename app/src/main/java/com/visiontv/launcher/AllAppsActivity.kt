@@ -1,4 +1,4 @@
-package com.appletv.launcher
+package com.visiontv.launcher
 
 import android.content.Intent
 import android.os.Bundle
@@ -10,7 +10,7 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.appletv.launcher.databinding.ActivityAllAppsBinding
+import com.visiontv.launcher.databinding.ActivityAllAppsBinding
 
 class AllAppsActivity : AppCompatActivity() {
 

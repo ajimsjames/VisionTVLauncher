@@ -1,9 +1,9 @@
-package com.appletv.launcher.receiver
+package com.visiontv.launcher.receiver
 
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
-import com.appletv.launcher.MainActivity
+import com.visiontv.launcher.MainActivity
 
 class BootReceiver : BroadcastReceiver() {
     override fun onReceive(context: Context, intent: Intent) {

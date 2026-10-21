@@ -1,9 +1,9 @@
-package com.appletv.launcher.service
+package com.visiontv.launcher.service
 
 import android.accessibilityservice.AccessibilityService
 import android.content.Intent
 import android.view.accessibility.AccessibilityEvent
-import com.appletv.launcher.MainActivity
+import com.visiontv.launcher.MainActivity
 
 class HomeWatcherService : AccessibilityService() {
 
