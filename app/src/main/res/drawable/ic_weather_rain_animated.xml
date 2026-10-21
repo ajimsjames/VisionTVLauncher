@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="120dp"
+    android:viewportWidth="160"
+    android:viewportHeight="120">
+    <!-- Cloud base -->
+    <path
+        android:fillColor="#8094A3B8"
+        android:pathData="M45,65 a20,20 0 0,1 25,-18 a30,30 0 0,1 55,5 a22,22 0 0,1 15,22 a20,20 0 0,1 -20,20 h-70 a20,20 0 0,1 -5,-29z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M40,60 a20,20 0 0,1 25,-18 a30,30 0 0,1 55,5 a22,22 0 0,1 15,22 a20,20 0 0,1 -20,20 h-70 a20,20 0 0,1 -5,-29z" />
+    <!-- Rain drops -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M55,95 L48,112 M78,95 L71,112 M100,95 L93,112 M122,95 L115,112" />
+</vector>

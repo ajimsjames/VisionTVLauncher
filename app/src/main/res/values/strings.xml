@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vision TV Launcher</string>
+    <string name="accessibility_service_desc">Provides seamless Home button mapping for Vision TV Launcher</string>
+</resources>
